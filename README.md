@@ -1,4 +1,4 @@
-# Website Failure Check Box
+## Website Failure Check Box
 
 > 网站关闭检查器
 
