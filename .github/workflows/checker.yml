@@ -28,5 +28,5 @@ jobs:
           node index.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 68d7d8edbb14a8769d8021cc9513ba80
+          GIST_ID: 1e1dd5cf516f4fca5fc907c892108c64
           LISTENED_WEBSITES: https://zhihu.com,https://baidu.com
